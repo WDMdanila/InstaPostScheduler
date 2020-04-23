@@ -11,4 +11,4 @@ Contents of **config.json**:
 }
 ```
 
-Where `time_sleep` means time between posts in minutes (may be less than 0)
+Where `time_sleep` means time between posts in minutes (may be less than 1)
